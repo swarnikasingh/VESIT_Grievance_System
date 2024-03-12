@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242633284233",
+    "project_id": "grievanceapp-f2446",
+    "storage_bucket": "grievanceapp-f2446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242633284233:android:83ca7125caf5be00178458",
+        "android_client_info": {
+          "package_name": "com.example.loginagain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRy6B8f_9bLEIxhsGWTGmywLwtNiLGk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
